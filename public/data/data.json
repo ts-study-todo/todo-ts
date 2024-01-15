@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1643839380386,
+    "value": "투두 첫 번째 리스트",
+    "isCompleted": false
+  },
+  {
+    "id": 1643839380387,
+    "value": "투두 두 번째 리스트",
+    "isCompleted": true
+  },
+  {
+    "id": 1643839380388,
+    "value": "투두 세 번째 리스트",
+    "isCompleted": false
+  }
+]
